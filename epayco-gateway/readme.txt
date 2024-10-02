@@ -1,10 +1,10 @@
 === ePayco Plugin for WooCommerce ===
 Contributors:
 Donate link: https://epayco.com/
-Tags: e-commerce, commerce, wordpress ecommerce, store, epayco
+Tags: e-commerce, commerce, wordpress ecommerce, store, sales, sell, shop, shopping, cart, checkout, configurable, epayco
 Requires at least: WordPress 5.0
 Tested up to: WordPress 6.7
-Stable tag: 8.1
+Stable tag: 8.1.1
 Requires PHP: 7.4
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -92,6 +92,6 @@ Contribute to the repository on GitHub: [Visit the GitHub repository](https://gi
 
 == Changelog ==
 
-= 8.1.0 =
+= 8.1.1 =
 * Updated version with new features and improvements.
 
