@@ -1,11 +1,11 @@
-=== ePayco Plugin for WooCommerce ===
-Contributors:
+=== ePayco plugin for WooCommerce ===
+Contributors: ePayco Team
 Donate link: https://epayco.com/
-Tags: e-commerce, commerce, wordpress ecommerce, store, sales, sell, shop, shopping, cart, checkout, configurable, epayco
-Requires at least: WordPress 5.0
-Tested up to: WordPress 6.7
-Stable tag: 8.1.1
+Tags: e-commerce, wordpress, store, checkout, epayco
+Requires at least: 5.5
+Tested up to: 6.7
 Requires PHP: 7.4
+Stable tag: 8.2.0
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -29,15 +29,14 @@ ePayco accepts Visa, MasterCard, American Express, Diners Club, SEPA, PSE (Bank 
 * Test your store in our Sandbox environment before going live.
 * Receive your sales revenue on the same day.
 * **ePayco customers can use their stored cards** for quick and easy checkout without re-entering card details.
-* Focus on selling while **we handle security with our advanced fraud prevention and analysis tools.**
+* Focus on selling while ** we handle security with our advanced fraud prevention and analysis tools.**
 
 ==Sell more with the paid market ==
 
 **[Leave your details](https://epayco.com/contacto/)** to talk to our team of experts (currently  available only for Colombia).
 
-
-
 == Screenshots ==
+
 
 == Frequently Asked Questions ==
 
@@ -79,7 +78,7 @@ Next, go to the settings module, click on configuration-customizations, and fina
 
 Approve your account to go to production and receive real payments. 
 
-= Configuration =
+= Configuration=
 
 1. Log in to the ePayco dashboard with your credentials.
 2. Go to **Settings > Customizations > Secret Keys**.
@@ -87,11 +86,8 @@ Approve your account to go to production and receive real payments.
 4. Test the store with sandbox credentials.
 5. Approve your account to receive real payments.
 
-== Additional Info ==
-Contribute to the repository on GitHub: [Visit the GitHub repository](https://github.com/epayco/Plugin_ePayco_WooCommerce)
-
 == Changelog ==
 
-= 8.1.1 =
-* Updated version with new features and improvements.
 
+== Additional Info ==
+Contribute to the repository on GitHub: [Visit the GitHub repository](https://github.com/epayco/Plugin_ePayco_WooCommerce)
