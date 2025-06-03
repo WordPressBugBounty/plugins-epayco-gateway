@@ -1,11 +1,10 @@
 === ePayco plugin for WooCommerce ===
-Contributors: ePayco Team
 Donate link: https://epayco.com/
-Tags: e-commerce, wordpress, store, checkout, epayco
+Tags: e-commerce, woocommerce, payment-gateway, checkout, epayco
 Requires at least: 5.5
 Tested up to: 6.7
 Requires PHP: 7.4
-Stable tag: 8.2.0
+Stable tag: 8.2.1
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -54,29 +53,29 @@ Yes. It is advisable to use an SSL certificate as it is crucial for browser secu
 
 = Automatic Installation =
 
-Automatic installation is super easy because WordPress takes care of the file transfers for you, so you don’t even need to leave your web browser. To automatically install the ePayco plugin for Woocommerce Stripe plugin, just log in to your WordPress dashboard, go to the Plugins menu, and click Add New. 
+Automatic installation is super easy because WordPress takes care of the file transfers for you, so you donâ€™t even need to leave your web browser. To automatically install the ePayco plugin for Woocommerce Stripe plugin, just log in to your WordPress dashboard, go to the Plugins menu, and click Add New. 
 
-In the search field, type “ePayco plugin for Woocommerce” and hit Search Plugins. Once you find our plugin, you can check out details like the version, rating, and description. The best part? You can install it with a simple click on “Install Now” and then “Activate”. 
+In the search field, type â€œePayco plugin for Woocommerceâ€ and hit Search Plugins. Once you find our plugin, you can check out details like the version, rating, and description. The best part? You can install it with a simple click on â€œInstall Nowâ€ and then â€œActivateâ€. 
 
 = Manual Installation =
 
 1. Download the [zip](https://github.com/epayco/Plugin_ePayco_WooCommerce?tab=readme-ov-file#requisitos) or from the [WordPress Module Directory](https://wordpress.org/plugins/epayco-gateway/).
-2. Go to the “Plugins” module and click on “Upload Plugin”.
+2. Go to the â€œPluginsâ€ module and click on â€œUpload Pluginâ€.
 3. Upload the file, install, and activate the plugin.
 
 Done! 
 
-= Installing this plugin won’t slow down your store at all! =
+= Installing this plugin wonâ€™t slow down your store at all! =
 
-If everything went smoothly, you’ll find it in your list of “Installed Plugins” in the WordPress dashboard. Just enable it and then move on to integrating and setting up your ePayco account. 
+If everything went smoothly, youâ€™ll find it in your list of â€œInstalled Pluginsâ€ in the WordPress dashboard. Just enable it and then move on to integrating and setting up your ePayco account. 
 
 = ePayco Integration = 
 
 Log in to the ePayco dashboard with your credentials. 
 
-Next, go to the settings module, click on configuration-customizations, and finally, select the “Secret Keys” category. 
+Next, go to the settings module, click on configuration-customizations, and finally, select the â€œSecret Keysâ€ category. 
 
-Approve your account to go to production and receive real payments. 
+Approve your account to go toâ€¯production and receive real payments. 
 
 = Configuration=
 
@@ -88,6 +87,17 @@ Approve your account to go to production and receive real payments.
 
 == Changelog ==
 
+= 6.7.0 =
+* Initial stable release
+
+= 8.1.0 =
+* upload release
+
+= 8.1.1 =
+* upload release
+
+= 8.2.1 =
+* upload release
 
 == Additional Info ==
 Contribute to the repository on GitHub: [Visit the GitHub repository](https://github.com/epayco/Plugin_ePayco_WooCommerce)
