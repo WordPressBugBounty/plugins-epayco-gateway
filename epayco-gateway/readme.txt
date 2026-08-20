@@ -1,141 +1,121 @@
-=== ePayco Plugin for WooCommerce ===
-
-Contributors: epayco
+=== ePayco plugin for WooCommerce ===
+Contributors: ePayco Team
 Donate link: https://epayco.com/
-Tags: payments, payment, woocommerce, epayco, payment gateway
-Requires at least: 5.5
+Tags: payments, checkout, woocommerce, epayco, gateway
+Requires at least: 6.5
 Tested up to: 6.8.3
-Stable tag: 8.4.6
+Stable tag: 8.4.7
 Requires PHP: 7.4
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-**The official ePayco plugin for WooCommerce enables seamless payment processing for your online store.**
+**The official ePayco plugin for WooCommerce allows seamless payment processing for your online store.**
 
 == Description ==
 
-The official ePayco plugin provides smooth payment processing for your online store, allowing customers to complete their purchases using their preferred payment methods.
+The official ePayco plugin enables seamless payment processing for your online store, allowing customers to complete their purchases using their preferred payment methods.
 
-Installation is **simple and requires no technical knowledge**, so you can start selling immediately.
+Installation is **straightforward and requires no technical expertise**, so you can start selling immediately.
 
-== Payment Methods ==
+== Method Payments ==
 
-ePayco accepts Visa, MasterCard, American Express, Diners Club, SEPA, PSE (Bank Transfer), Cash Payments (Efecty, Gana, Punto Red, Red Servi, Su Red, Paga Todo, Acertemos, Gana Gana, Su Chance, Jer, La Perla), Daviplata, PayPal, SafetyPay, Davipuntos, Puntos Colombia (Coming Soon), and more directly in your store through the ePayco WooCommerce plugin, enabling payments from both mobile and desktop devices. In addition, ePayco supports 3D Secure v2.2.
+ePayco accepts Visa, MasterCard, American Express, Diners Club, SEPA, PSE (Bank Transfer), Cash (Efecty, Gana, Punto Red, Red Servi, Su Red, Paga todo, Acertemos, Gana Gana, Su Chance, Jer, La Perla), Daviplata, PayPal, SafetyPay, Davipuntos, Puntos Colombia (Coming soon) and more directly on your store with the ePayco plugin for WooCommerce, allowing payments for mobile and desktop. Also, ePayco supports 3D-Secure v 2.2.
 
 == Why Choose ePayco? ==
 
-* ePayco has no setup fees or hidden costs—you only pay when you make money! Your earnings are transferred quickly.
-* Easily convert product prices between Colombian Pesos (COP) and U.S. Dollars (USD).
+* ePayco has no setup fees, no hidden costs: you only get charged when you earn money! Earnings are transferred to you quickly. 
+* Easily convert your product prices between Colombian pesos and U.S. dollars. 
 * Offer installment payments and highlight current promotions.
 * Test your store in our Sandbox environment before going live.
 * Receive your sales revenue on the same day.
-* **ePayco customers can use their saved cards** for a fast and convenient checkout experience without re-entering card details.
-* Focus on sales while **we handle security with our advanced fraud prevention and analysis tools.**
+* **ePayco customers can use their stored cards** for quick and easy checkout without re-entering card details.
+* Focus on selling while ** we handle security with our advanced fraud prevention and analysis tools.**
 
-== Sell More with the Payment Marketplace ==
+==Sell more with the paid market ==
 
-**[Leave your details](https://epayco.com/contacto/)** to speak with our team of experts (currently available only in Colombia).
+**[Leave your details](https://epayco.com/contacto/)** to talk to our team of experts (currently  available only for Colombia).
 
 == Screenshots ==
 
+
 == Frequently Asked Questions ==
 
-= I have a question during setup. Where can I find the documentation? =
+= I had a question during setup, where can I check the documentation? =
+In our developer website you will find the step by step guide on [how to integrate the ePayco Plugin](https://github.com/epayco/Plugin_ePayco_WooCommerce?tab=readme-ov-file#requisitos) in your online store.
 
-On our developer website, you will find a step-by-step guide on **how to integrate the ePayco plugin** into your online store:
-https://github.com/epayco/Plugin_ePayco_WooCommerce?tab=readme-ov-file#requisitos
+= I reviewed the documentation and these FAQs but still have problems in my store, what can I do? =
+If you have already reviewed the documentation and have not found a solution, you can contact our support team through their [contact form](https://epayco.com/contacto/). Please note that we guarantee a response as soon as possible.
 
-= I have reviewed the documentation and these FAQs, but I am still experiencing issues with my store. What can I do? =
+= Are you required to use an SSL certificate? =
+Yes. It is advisable to use an SSL certificate as it is crucial for browser security.
 
-If you have already reviewed the documentation and have not found a solution, you can contact our support team through the contact form:
-https://epayco.com/contacto/
-
-We guarantee a response as soon as possible.
-
-= Is an SSL certificate required? =
-
-Yes. Using an SSL certificate is highly recommended, as it is essential for browser security.
 
 == Installation ==
 
 = Automatic Installation =
 
-Automatic installation is very simple because WordPress handles the file transfer for you, so you do not even need to leave your browser. To automatically install the ePayco WooCommerce plugin, simply log in to your WordPress dashboard, go to the Plugins menu, and click **Add New**.
+Automatic installation is super easy because WordPress takes care of the file transfers for you, so you donâ€™t even need to leave your web browser. To automatically install the ePayco plugin for Woocommerce Stripe plugin, just log in to your WordPress dashboard, go to the Plugins menu, and click Add New. 
 
-In the search field, type **"ePayco plugin for WooCommerce"** and click **Search Plugins**. Once you find our plugin, you can view details such as the version, rating, and description. Best of all, you can install it with a single click on **Install Now**, and then click **Activate**.
+In the search field, type â€œePayco plugin for Woocommerceâ€ and hit Search Plugins. Once you find our plugin, you can check out details like the version, rating, and description. The best part? You can install it with a simple click on â€œInstall Nowâ€ and then â€œActivateâ€. 
 
 = Manual Installation =
 
-1. Download the ZIP file from:
-   https://github.com/epayco/Plugin_ePayco_WooCommerce?tab=readme-ov-file#requisitos
-   or from the WordPress Plugin Directory:
-   https://wordpress.org/plugins/epayco-gateway/
-2. Go to the **Plugins** section and click **Upload Plugin**.
+1. Download the [zip](https://github.com/epayco/Plugin_ePayco_WooCommerce?tab=readme-ov-file#requisitos) or from the [WordPress Module Directory](https://wordpress.org/plugins/epayco-gateway/).
+2. Go to the â€œPluginsâ€ module and click on â€œUpload Pluginâ€.
 3. Upload the file, install, and activate the plugin.
 
-Done!
+Done! 
 
-= Installing This Plugin Will Not Slow Down Your Store =
+= Installing this plugin wonâ€™t slow down your store at all! =
 
-If everything was installed correctly, you will find it in the **Installed Plugins** list in your WordPress dashboard. Simply activate it and continue with the integration and configuration of your ePayco account.
+If everything went smoothly, youâ€™ll find it in your list of â€œInstalled Pluginsâ€ in the WordPress dashboard. Just enable it and then move on to integrating and setting up your ePayco account. 
 
-= ePayco Integration =
+= ePayco Integration = 
 
-Log in to the ePayco dashboard using your credentials.
+Log in to the ePayco dashboard with your credentials. 
 
-Next, go to the **Settings** module, click **Customizations**, and then select the **Secret Keys** category.
+Next, go to the settings module, click on configuration-customizations, and finally, select the â€œSecret Keysâ€ category. 
 
-Approve your account so it can move to production mode and start receiving real payments.
+Approve your account to go toâ€¯production and receive real payments. 
 
-= Configuration =
+= Configuration=
 
-1. Log in to the ePayco dashboard using your credentials.
+1. Log in to the ePayco dashboard with your credentials.
 2. Go to **Settings > Customizations > Secret Keys**.
-3. Enter your **P_CUST_ID_CLIENTE, P_KEY, PUBLIC_KEY, and PRIVATE_KEY**.
-4. Test your store using Sandbox credentials.
-5. Authorize your account to receive real payments.
+3. Enter the **P_CUST_ID_CLIENTE, P_KEY, PUBLIC_KEY, PRIVATE_KEY**.
+4. Test the store with sandbox credentials.
+5. Approve your account to receive real payments.
 
 == Changelog ==
-
 = 8.1.0 =
-
-* Version update
+* upload release
 
 = 8.1.1 =
-
-* Version update
+* upload release
 
 = 8.2.1 =
-
-* Version update
+* upload release
 
 = 8.2.2 =
-
-* Version update
+* upload release
 
 = 8.2.3 =
-
-* Version update
+* upload release
 
 = 8.4.0 =
-
-* Version update
+* upload release
 
 = 8.4.1 =
-
-* Version update
+* upload release
 
 = 8.4.2 =
-
-* Version update
+* upload release
 
 = 8.4.3 =
-
-* Version update
+* upload release
 
 = 8.4.4 =
-
-* Version update
+* upload release
 
 = 8.4.5 =
 * upload release
@@ -143,6 +123,8 @@ Approve your account so it can move to production mode and start receiving real 
 = 8.4.6 =
 * upload release
 
+= 8.4.7 =
+* Security hardening for the public callback: strict validation of required parameters, signature verification before processing, and safe prepared queries for the plugin table.
 
 == Additional Info ==
 Contribute to the repository on GitHub: [Visit the GitHub repository](https://github.com/epayco/Plugin_ePayco_WooCommerce)
