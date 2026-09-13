@@ -3,7 +3,7 @@ Contributors: ePayco Team
 Donate link: https://epayco.com/
 Tags: payments, checkout, woocommerce, epayco, gateway
 Requires at least: 6.5
-Tested up to: 6.8.3
+Tested up to: 7.1
 Stable tag: 8.4.7
 Requires PHP: 7.4
 License: GNU General Public License v3.0
