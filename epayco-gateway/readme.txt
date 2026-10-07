@@ -1,4 +1,4 @@
-﻿=== ePayco plugin for WooCommerce ===
+=== ePayco plugin for WooCommerce ===
 Contributors: ePayco Team
 Donate link: https://epayco.com/
 Tags: payments, checkout, woocommerce, epayco, gateway
@@ -125,6 +125,8 @@ Approve your account to go toâ€¯production and receive real payments.
 
 = 8.4.7 =
 * Security hardening for the public callback: strict validation of required parameters, signature verification before processing, and safe prepared queries for the plugin table.
+
+= 8.4.8 =
 
 == Additional Info ==
 Contribute to the repository on GitHub: [Visit the GitHub repository](https://github.com/epayco/Plugin_ePayco_WooCommerce)
